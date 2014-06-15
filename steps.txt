@@ -1,0 +1,5 @@
+1.dir function. with different languages.
+
+2. file control with different languages.
+
+3. regular expression with different languages.
